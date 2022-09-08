@@ -1,0 +1,9 @@
+.list-favorite {
+  display: flex;
+  gap: 2rem;
+  padding: 0 2rem 2rem;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: #e9eaea;
+}
