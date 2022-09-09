@@ -17,6 +17,12 @@ Project responsible for presenting my skills with React, JavaScript, React Testi
 	<img src="img/a.png"/>
 </div>
 
+## 100% Test Coverage:
+
+<div align="center" margin="50px">
+	<img src="img/b.png"/>
+</div>
+
 ## Connect with me:
 
 <div align="center" margin="50px">
